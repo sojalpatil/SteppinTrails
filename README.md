@@ -1,3 +1,2 @@
 # SteppinTrails
-To install dependencies
-install npm
+To install all dependancies : $ npm install
