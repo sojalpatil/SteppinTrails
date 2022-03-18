@@ -1,2 +1,3 @@
 # SteppinTrails
-SteppinTrails WebApp
+To install dependencies
+install npm
